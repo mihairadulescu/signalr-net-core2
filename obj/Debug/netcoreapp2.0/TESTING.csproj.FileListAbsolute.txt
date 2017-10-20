@@ -1,0 +1,11 @@
+c:\users\mihai.radulescu\documents\visual studio 2017\Projects\TESTING\TESTING\bin\Debug\netcoreapp2.0\TESTING.deps.json
+c:\users\mihai.radulescu\documents\visual studio 2017\Projects\TESTING\TESTING\bin\Debug\netcoreapp2.0\TESTING.runtimeconfig.json
+c:\users\mihai.radulescu\documents\visual studio 2017\Projects\TESTING\TESTING\bin\Debug\netcoreapp2.0\TESTING.runtimeconfig.dev.json
+c:\users\mihai.radulescu\documents\visual studio 2017\Projects\TESTING\TESTING\bin\Debug\netcoreapp2.0\TESTING.dll
+c:\users\mihai.radulescu\documents\visual studio 2017\Projects\TESTING\TESTING\obj\Debug\netcoreapp2.0\TESTING.csprojResolveAssemblyReference.cache
+c:\users\mihai.radulescu\documents\visual studio 2017\Projects\TESTING\TESTING\obj\Debug\netcoreapp2.0\TESTING.csproj.CoreCompileInputs.cache
+c:\users\mihai.radulescu\documents\visual studio 2017\Projects\TESTING\TESTING\obj\Debug\netcoreapp2.0\TESTING.AssemblyInfoInputs.cache
+c:\users\mihai.radulescu\documents\visual studio 2017\Projects\TESTING\TESTING\obj\Debug\netcoreapp2.0\TESTING.AssemblyInfo.cs
+c:\users\mihai.radulescu\documents\visual studio 2017\Projects\TESTING\TESTING\bin\Debug\netcoreapp2.0\TESTING.pdb
+c:\users\mihai.radulescu\documents\visual studio 2017\Projects\TESTING\TESTING\obj\Debug\netcoreapp2.0\TESTING.dll
+c:\users\mihai.radulescu\documents\visual studio 2017\Projects\TESTING\TESTING\obj\Debug\netcoreapp2.0\TESTING.pdb
